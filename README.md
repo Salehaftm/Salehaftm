@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Salehaftm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Salehaftm/Salehaftm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋** Hi, I’m @Salehaftm
+- 👀  I'm interested in recruiting, training, and managing employees.
+- 🌱 I’m currently learning Skilled Courses from Alison & Great Learning.
+- 💞️ I’m looking to collaborate on recruiting Candidates.
+- 📫 How to reach me ...Salehaftm100@yahoo.com
